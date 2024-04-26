@@ -11,7 +11,7 @@ exclude:
 # Site settings
 title: jw4gg
 subtitle: "My personal blog"
-email: ""
+email: 
 name: John Waggoner
 description: >
   My personal blog.
