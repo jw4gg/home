@@ -3,8 +3,8 @@ layout: post
 title:  "Jekyll Formatting"
 date:   2024-04-26 09:26:00
 author: John Waggoner
-categories: Jekyll
-tags:	jekyll
+categories: References
+tags:	References
 cover:  "/assets/instacode.png"
 ---
 
