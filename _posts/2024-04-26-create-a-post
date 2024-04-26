@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Adding a new post"
-date:   2024-04-26 08:54:00
+title:  "Jekyll Formatting"
+date:   2024-04-26 09:26:00
 author: John Waggoner
-categories: References
-tags:	
+categories: Jekyll
+tags:	jekyll
 cover:  "/assets/instacode.png"
 ---
 
