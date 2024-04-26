@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
-date:   2015-04-20 08:43:59
-author: Ben Centra
-categories: Jekyll
-tags:	jekyll welcome
+title:  "Adding a new post"
+date:   2024-04-26 08:54:00
+author: John Waggoner
+categories: References
+tags:	
 cover:  "/assets/instacode.png"
 ---
 
